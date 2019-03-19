@@ -6,12 +6,6 @@ int main(){
 	cin >> a;
 	if (a >= 0 && a<= 100){
 		cout << "Yes" << endl;
-	} else {
-		cout << "No" << endl;
 	}
 	return 0;
 }
-
-
-
-
